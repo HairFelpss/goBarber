@@ -4,6 +4,7 @@ const FileStore = require('session-file-store')(session)
 const nunjucks = require('nunjucks')
 const path = require('path')
 const flash = require('connect-flash')
+
 class App {
   constructor () {
     this.express = express()
