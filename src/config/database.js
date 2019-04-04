@@ -4,7 +4,7 @@ module.exports = {
   host: 'gonodemodulo2.ck4kkuslchyx.sa-east-1.rds.amazonaws.com',
   username: 'FajReyy',
   password: 'Faj82469173reyy',
-  database: 'gonodemodulo2',
+  database: 'barber-teste',
   operatorAliases: false,
   define: {
     timestamps: true,
